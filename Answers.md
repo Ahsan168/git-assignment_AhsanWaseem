@@ -56,11 +56,11 @@ There will no conflict because both Ali and Fatima worked on different files, so
 ## Scenario C:
 There will be a conflict in this scenario becasue DEv and Dev B both chnaged the same line of code, so git will show a conflict which version to keep or which to delete. The conflict will look like:
 
-<!-- <<<<<<< HEAD
+```<<<<<<<< HEAD
 DEBUG = True
 =======
 DEBUG = False
->>>>>>> feature-branch -->
+>>>>>>> feature-branch```
 
 ## Scenario D:
 1. First i will open the index.html file and look for conflicts
