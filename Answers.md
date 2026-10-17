@@ -60,7 +60,8 @@ There will be a conflict in this scenario becasue DEv and Dev B both chnaged the
 DEBUG = True
 =======
 DEBUG = False
->>>>>>> feature-branch```
+>>>>>>> feature-branch
+```
 
 ## Scenario D:
 1. First i will open the index.html file and look for conflicts
