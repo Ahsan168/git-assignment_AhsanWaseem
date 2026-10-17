@@ -54,7 +54,7 @@ There will no conflict because both Ahmed and Sara worked on different lines in 
 There will no conflict because both Ali and Fatima worked on different files, so git will merge them without a conflict
 
 ## Scenario C:
-There will be a conflict in this scenario becasue DEv and Dev B both chnaged the same line of code, so git will show a conflict which version to keep or which to delete. The conflict will look like:
+There will be a conflict in this scenario becasue Dec A and Dev B both chnaged the same line of code, so git will show a conflict which version to keep or which to delete. The conflict will look like:
 
 ```<<<<<<<< HEAD
 DEBUG = True
